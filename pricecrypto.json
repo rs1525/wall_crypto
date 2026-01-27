@@ -1,0 +1,47 @@
+[
+  {
+    "id": "bitcoin",
+    "sym": "BTC",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/btc_pabpik.png"
+  },
+  {
+    "id": "ethereum",
+    "sym": "ETH",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/eth_pabpik.png"
+  },
+  {
+    "id": "binancecoin",
+    "sym": "BNB",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/bnb_m4xvee.png"
+  },
+  {
+    "id": "solana",
+    "sym": "SOL",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/sol_pabpik.png"
+  },
+  {
+    "id": "litecoin",
+    "sym": "LTC",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/ltc_pabpik.png"
+  },
+  {
+    "id": "ripple",
+    "sym": "XRP",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/xrp_pabpik.png"
+  },
+  {
+    "id": "tron",
+    "sym": "TRX",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/trx_pabpik.png"
+  },
+  {
+    "id": "dogecoin",
+    "sym": "DOGE",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/doge_pabpik.png"
+  },
+  {
+    "id": "stellar",
+    "sym": "XLM",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/xlm_pabpik.png"
+  }
+]
