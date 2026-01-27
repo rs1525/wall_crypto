@@ -1,11 +1,38 @@
-		
 [
 {
 "name": "btc",
-"url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/btc_pabpik.png"
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/btc_q0ze72.png"
 },
 {
 "name": "eth",
-"url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/bnb_m4xvee.png"
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/eth_nsckre.png"
+},
+{
+"name": "bnb",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/btc_q0ze72.png"
+},
+{
+"name": "sol",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546538/sol_oysaps.png"
+},
+{
+"name": "ltc",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/ltc_corq0b.png"
+},
+{
+"name": "xrp",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/xrp_rffl6a.png"
+},
+{
+"name": "trx",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/trx_je0tmr.png"
+},
+{
+"name": "doge",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/doge_krxngl.png"
+},
+{
+"name": "xlm",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/xlm_gkxmhc.png"
 }
 ]
