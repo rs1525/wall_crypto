@@ -1,10 +1,11 @@
+		
 [
-    {
-        "name": "btc",
-        "url": "https://res.cloudinary.com/damljixzn/image/upload/v1757192088/btc_pabpik.png",
-         },
-    {
-        "name": "eth",
-        "url": "https://res.cloudinary.com/damljixzn/image/upload/v1757192088/bnb_m4xvee.png",
-         }
+{
+"name": "btc",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/btc_pabpik.png"
+},
+{
+"name": "eth",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/bnb_m4xvee.png"
+}
 ]
