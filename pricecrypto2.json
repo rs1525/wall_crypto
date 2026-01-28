@@ -1,0 +1,38 @@
+[
+  {
+    "sym": "BTC",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/btc_pabpik.png"
+  },
+  {
+    "sym": "ETH",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/eth_pabpik.png"
+  },
+  {
+    "sym": "BNB",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/bnb_m4xvee.png"
+  },
+  {
+    "sym": "SOL",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/sol_pabpik.png"
+  },
+  {
+    "sym": "LTC",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/ltc_pabpik.png"
+  },
+  {
+    "sym": "XRP",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/xrp_pabpik.png"
+  },
+  {
+    "sym": "TRX",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/trx_pabpik.png"
+  },
+  {
+    "sym": "DOGE",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/doge_pabpik.png"
+  },
+  {
+    "sym": "XLM",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/xlm_pabpik.png"
+  }
+]
