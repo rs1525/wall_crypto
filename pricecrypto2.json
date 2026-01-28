@@ -1,23 +1,23 @@
 [
   {
     "sym": "BTC",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/btc_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/btc_q0ze72.png"
   },
   {
     "sym": "ETH",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/eth_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/eth_nsckre.png"
   },
   {
     "sym": "BNB",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/bnb_m4xvee.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546538/bnb_dimlj0.png"
   },
   {
     "sym": "SOL",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/sol_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546538/sol_oysaps.png"
   },
   {
     "sym": "LTC",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/ltc_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/ltc_corq0b.png"
   },
   {
     "sym": "DASH",
@@ -25,19 +25,19 @@
   },
   {
     "sym": "XRP",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/xrp_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/xrp_rffl6a.png"
   },
   {
     "sym": "TRX",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/trx_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/trx_je0tmr.png"
   },
   {
     "sym": "DOGE",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/doge_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/doge_krxngl.png"
   },
   {
     "sym": "XLM",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/xlm_pabpik.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/xlm_gkxmhc.png"
   },
   {
     "sym": "ADA",
@@ -51,12 +51,16 @@
     "sym": "RAY",
     "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769615118/ray_jry6tm.png"
   },
+   {
+    "sym": "XMR",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769636029/XMR_x0h0gv.png"
+  },
   {
     "sym": "PEPE",
     "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769611807/pepe_kkwabj.png"
   },
   {
     "sym": "SHIB",
-    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769614662/shib_hihv1j.png"
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769631590/shib_btnv5j.png"
   }
 ]
