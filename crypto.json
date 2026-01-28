@@ -20,6 +20,10 @@
 "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/ltc_corq0b.png"
 },
 {
+"name": "dash",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769614776/dash_k53znb.png"
+},
+{
 "name": "xrp",
 "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769546539/xrp_rffl6a.png"
 },
@@ -40,7 +44,15 @@
 "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769611807/ada_ybkcni.png"
 },
 {
+"name": "ray",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769615118/ray_jry6tm.png"
+},
+{
 "name": "pepe",
 "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769611807/pepe_kkwabj.png"
+},
+{
+"name": "shib",
+"url": "https://res.cloudinary.com/damljixzn/image/upload/v1769614662/shib_hihv1j.png"
 }
 ]
