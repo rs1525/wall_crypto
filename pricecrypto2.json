@@ -20,6 +20,10 @@
     "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/ltc_pabpik.png"
   },
   {
+    "sym": "DASH",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769614776/dash_k53znb.png"
+  },
+  {
     "sym": "XRP",
     "url": "https://res.cloudinary.com/damljixzn/image/upload/v1737192088/xrp_pabpik.png"
   },
@@ -40,7 +44,15 @@
     "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769611807/ada_ybkcni.png"
   },
   {
+    "sym": "RAY",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769615118/ray_jry6tm.png"
+  },
+  {
     "sym": "PEPE",
     "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769611807/pepe_kkwabj.png"
+  },
+  {
+    "sym": "SHIB",
+    "url": "https://res.cloudinary.com/damljixzn/image/upload/v1769614662/shib_hihv1j.png"
   }
 ]
