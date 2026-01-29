@@ -1,22 +1,30 @@
-[
+		
 {
-"name": "music1",
+"colors": [
+{
+"id": 0,
+"name": "Azul",
 "url": "https://res.cloudinary.com/dm1kjgysl/image/upload/v1769724760/music_azul_hndi9h.png"
 },
 {
-"name": "music2",
+"id": 1,
+"name": "Morado",
 "url": "https://res.cloudinary.com/dm1kjgysl/image/upload/v1769724761/music_morado_z6zud6.png"
 },
 {
-"name": "music3",
+"id": 2,
+"name": "Rojo",
 "url": "https://res.cloudinary.com/dm1kjgysl/image/upload/v1769724761/music_rojo_nmnrsn.png"
 },
 {
-"name": "music4",
+"id": 3,
+"name": "Verde",
 "url": "https://res.cloudinary.com/dm1kjgysl/image/upload/v1769724760/music_verde_cevxqs.png"
 },
 {
-"name": "music5",
+"id": 4,
+"name": "Purpura",
 "url": "https://res.cloudinary.com/dm1kjgysl/image/upload/v1769725329/music_pur_ufpts8.png"
 }
 ]
+}
